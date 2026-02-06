@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:10
+#EXTINF:5.433333,
+https://gitee.com/sjikowlp/8ickuh6v/raw/master/nJPQ4DLgoutput000.ts
+#EXTINF:9.433333,
+https://gitee.com/sjikowlp/8ickuh6v/raw/master/nJPQ4DLgoutput001.ts
+#EXT-X-ENDLIST
